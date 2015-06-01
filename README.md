@@ -19,6 +19,7 @@ The `ODF` folder in this repository is an unpacked
 [ODT file](https://en.wikipedia.org/wiki/OpenDocument). 
 In order to open the document as a normal word processing file, 
 follow these steps:
+
 1. Download the repository as a ZIP file.
 2. Unpack the file to a folder of your choice.
 3. Browse to the `ODF` folder in the unpacked content.
