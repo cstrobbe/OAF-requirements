@@ -16,9 +16,9 @@ Only the following changes have been made since the end of the AEGIS project:
 
 The content of this repository is an unpacked
 [ODT file](https://en.wikipedia.org/wiki/OpenDocument). 
-When you download the repository as a ZIP file,
-you can change the ending of the file from `zip` to `odt`
-and open it in 
+However, after downloading the repository as a ZIP file,
+and changing the ending of the file from `zip` to `odt`,
+the file cannot be opened with
 [LibreOffice](http://www.libreoffice.org/)
 or 
 [OpenOffice](http://www.openoffice.org/).
