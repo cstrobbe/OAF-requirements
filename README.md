@@ -43,13 +43,13 @@ and was funded by the European Commission as part of the
 7th Framework Programme (FP7) under project number 224348. 
 
 See the [main OAF repository](https://github.com/cstrobbe/OAF)
-for background, links to OAF introductions
-and links to other OAF documents.
+for background, links to OAF introductions and links to other OAF documents.
+
 
 ## Licence and Copyright
 
 The content of this repository is hosted here with the permission of the AEGIS
-Consortium partners. 
+Consortium partners.
 
 Licence: Creative Commons Attribution-ShareAlike 4.0 International [CC BY-SA 4.0](LICENCE.html).
 
